@@ -1,2 +1,4 @@
-THIS IS THE README FOR THIS SCHOOL ALX PROJECT
-
+#####################################################
+**  THIS IS THE README FOR THIS SCHOOL ALX PROJECT **
+**            about the Vagrant project            **
+#####################################################
